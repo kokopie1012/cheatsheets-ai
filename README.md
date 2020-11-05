@@ -3,6 +3,7 @@
 Essential Cheat Sheets for deep learning and machine learning engineers
 
 Website: https://aicheatsheets.com
+### Observable Linear Algebra : https://observablehq.com/@petulla/explorable-linear-algebra-cheatsheet
 
 <p align="center">
   <img width="50%" height="auto" src="Triplebyte_logo.png">
